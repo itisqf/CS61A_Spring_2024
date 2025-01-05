@@ -3,3 +3,7 @@ __pycache__/
 .ok_storage.bak
 .ok_storage.dat
 .ok_storage.dir
+.ok_consent
+.ok_disabled
+.ok_storage-shm
+.ok_storage-wal
