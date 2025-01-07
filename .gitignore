@@ -7,3 +7,4 @@ __pycache__/
 .ok_disabled
 .ok_storage-shm
 .ok_storage-wal
+local_test.py
